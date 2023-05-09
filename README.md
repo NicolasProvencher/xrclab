@@ -7,3 +7,8 @@ needs python packages:
 	pickle
 
 might make a singularity later for it
+
+
+script.py is a script to merge protein gene annotation for the openprot database
+needs certain text document to work
+Might update it later as something reusable
